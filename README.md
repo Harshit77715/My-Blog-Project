@@ -90,8 +90,6 @@ We welcome contributions to this project! Here’s how you can help:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-```markdown
-
 ### Customization Tips
 
 - **Description**: Modify the project description to match your project's features and goals.
